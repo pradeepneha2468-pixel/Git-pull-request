@@ -1,0 +1,7 @@
+Login Test Cases
+
+1. Verify login with valid credentials.
+2. Verify login with invalid credentials.
+3. Verify login with empty username.
+4. Verify login with empty password.
+5. Verify password masking.
